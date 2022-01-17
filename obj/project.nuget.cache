@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "E+KBqiz1jjg2E2gfEBJJliUiVkVeVVs+7jlCSR2yHB7qjO8jE6NjIsLpfCy5jbYQ1MJMrd3HoU/VpG4BDCwQOQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jmija\\Desktop\\Projects\\Code\\Dotnet_Lessons\\SignalRWebpack\\SignalRWebpack.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jmija\\.nuget\\packages\\microsoft.typescript.msbuild\\4.5.3\\microsoft.typescript.msbuild.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
